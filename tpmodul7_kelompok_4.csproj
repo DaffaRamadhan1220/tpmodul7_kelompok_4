@@ -8,6 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Update="tp7_1_103082400017.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
