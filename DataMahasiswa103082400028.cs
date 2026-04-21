@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text.Json;
 
-public class DataMahasiswa103082400047
+public class DataMahasiswa103082400028
 {
     public string Nama { get; set; }
     public string Nim { get; set; }
@@ -10,7 +10,7 @@ public class DataMahasiswa103082400047
 
     public void ReadJSON()
     {
-        string jsonFileName = "tp7_1_103082400047.json";
+        string jsonFileName = "tp7_1_103082400028.json";
 
         if (!File.Exists(jsonFileName))
         {
