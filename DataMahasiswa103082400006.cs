@@ -10,7 +10,7 @@ public class DataMahasiswa103082400047
 
     public void ReadJSON()
     {
-        string jsonFileName = "tp7_1_103082400047.json";
+        string jsonFileName = "tp7_1_103082400006.json";
 
         if (!File.Exists(jsonFileName))
         {
@@ -21,7 +21,7 @@ public class DataMahasiswa103082400047
 
         string jsonString = File.ReadAllText(jsonFileName);
 
-        var data = JsonSerializer.Deserialize<DataMahasiswa103082400047>(jsonString);
+        var data = JsonSerializer.Deserialize<DataMahasiswa103082400006>(jsonString);
 
         Console.WriteLine($"Nama {data.Nama} dengan nim {data.Nim} dari fakultas {data.Fakultas}");
     }
