@@ -1,0 +1,16 @@
+{
+    "mata_kuliah": [
+        {
+            "kode": "SE0123",
+            "nama": "Basis Data"
+        },
+        {
+            "kode": "SE0987",
+            "nama": "Dasar Jaringan Komputer"
+        },
+        {
+            "kode": "SE0321",
+            "nama": "Struktur Data"
+        }
+    ]
+}
