@@ -1,0 +1,16 @@
+{
+  "mata_kuliah": [
+    {
+      "kode": "IF1234",
+      "nama": "Struktur Data"
+    },
+    {
+      "kode": "IF2345",
+      "nama": "Basis Data"
+    },
+    {
+      "kode": "IF3456",
+      "nama": "Pemrograman Berorientasi Objek"
+    }
+  ]
+}
