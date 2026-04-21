@@ -6,7 +6,7 @@ namespace tpmodul7_kelompok_4
     {
         static void Main(string[] args)
         {
-            DataMahasiswa103082400006 mahasiswa = new DataMahasiswa103082400006();
+            DataMahasiswa103082400017 mahasiswa = new DataMahasiswa103082400017();
             mahasiswa.ReadJSON();
         }
     }
