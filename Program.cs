@@ -8,6 +8,7 @@ namespace tpmodul7_kelompok_4
         {
             DataMahasiswa103082400017 mahasiswa = new DataMahasiswa103082400017();
             mahasiswa.ReadJSON();
+            KuliahMahasiswa103082400017.ReadJSON();
         }
     }
 }
