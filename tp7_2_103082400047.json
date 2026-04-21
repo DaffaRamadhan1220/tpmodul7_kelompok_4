@@ -1,0 +1,16 @@
+{
+    "mata_kuliah": [
+        {
+            "kode": "IF1234",
+            "nama": "Proyek Tingkat II"
+        },
+        {
+            "kode": "IF5678",
+            "nama": "Konstruksi Perangkat Lunak"
+        },
+        {
+            "kode": "IF9101",
+            "nama": "Basis Data"
+        }
+    ]
+}
